@@ -1,14 +1,18 @@
 {
   "name": "@vrun4750/emailvalidator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "bin": {
     "validate-email": "./cli.js"
-},
-  "keywords": ["email", "validator", "regex"],
+  },
+  "keywords": [
+    "email",
+    "validator",
+    "regex"
+  ],
   "author": "Varun Patodia",
   "license": "ISC",
   "description": "A simple package to validate emails",
