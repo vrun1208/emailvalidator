@@ -1,5 +1,5 @@
 {
-  "name": "emailvalidator",
+  "name": "@vrun4750/emailvalidator",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
